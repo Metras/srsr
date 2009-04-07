@@ -17,6 +17,7 @@
   * You *MUST* setup your SHOUTcast server first! Make sure it works! Then install SRSR!
 
 ===INSTALL===
+  # Save a copy of `config-default.php` as `config.php`
   # Edit `config.php` with your SHOUTcast server settings
   # Upload all files
   # Visit `index.php` in your browser
