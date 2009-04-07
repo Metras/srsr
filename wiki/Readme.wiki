@@ -17,11 +17,10 @@
   * You *MUST* setup your SHOUTcast server first! Make sure it works! Then install SRSR!
 
 ===INSTALL===
-1. Edit `config.php` with your SHOUTcast server settings
-2. Upload all files
-3. Visit `index.php` in your browser
-4. If you are using the song request feature, you have to generate a 
-   playlist in `.m3u` format and upload it to the installation directory
+  # Edit `config.php` with your SHOUTcast server settings
+  # Upload all files
+  # Visit `index.php` in your browser
+  # If you are using the song request feature, you have to generate a playlist in `.m3u` format and upload it to the installation directory
    
 ===CUSTOMIZATION===
   * All visual files are in `theme` directory, along with the CSS
