@@ -10,7 +10,7 @@
   * Code by Damian Taggart, Mindshare Studios, 04/2009
   * GNU Public License v3, http://www.gnu.org/licenses/gpl-3.0.txt
   * Based on/inspired by PHP scripts from the following people:
-  Dan Brown, tom@shoutclub.com, dstjohn@mediacast1.com, Jay Krivanek, Oddsock
+  Henrik Malmberg, Dan Brown, Oddsock
 
 ===REQUIREMENTS===
   * PHP 5 (with SimpleXML and cURL support)
